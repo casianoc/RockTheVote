@@ -14,6 +14,7 @@
 		C756D65F23A271FB00D1E027 /* RockTheVote.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C756D65D23A271FB00D1E027 /* RockTheVote.xcdatamodeld */; };
 		C756D66123A271FC00D1E027 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C756D66023A271FC00D1E027 /* Assets.xcassets */; };
 		C756D66423A271FC00D1E027 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C756D66223A271FC00D1E027 /* LaunchScreen.storyboard */; };
+		C756D66C23A2727200D1E027 /* NewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C756D66B23A2727200D1E027 /* NewTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C756D66023A271FC00D1E027 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C756D66323A271FC00D1E027 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C756D66523A271FC00D1E027 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C756D66B23A2727200D1E027 /* NewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				C756D66223A271FC00D1E027 /* LaunchScreen.storyboard */,
 				C756D66523A271FC00D1E027 /* Info.plist */,
 				C756D65D23A271FB00D1E027 /* RockTheVote.xcdatamodeld */,
+				C756D66B23A2727200D1E027 /* NewTableViewController.swift */,
 			);
 			path = RockTheVote;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C756D66C23A2727200D1E027 /* NewTableViewController.swift in Sources */,
 				C756D65923A271FB00D1E027 /* ViewController.swift in Sources */,
 				C756D65523A271FB00D1E027 /* AppDelegate.swift in Sources */,
 				C756D65F23A271FB00D1E027 /* RockTheVote.xcdatamodeld in Sources */,
